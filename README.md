@@ -39,8 +39,8 @@ with hover at the title (HTML & CSS foundations):
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-using-only-html5-and-css3-Mzio56CW3-)
-- Live Site URL: [Add live site URL here](https://hneenalshelaly.github.io/BlogPreviewCard/)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/blog-preview-card-using-only-html5-and-css3-Mzio56CW3-)
+- Live Site URL: [Click here](https://hneenalshelaly.github.io/BlogPreviewCard/)
 
 ## My process
 
